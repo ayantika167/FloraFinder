@@ -1,0 +1,18 @@
+SMAP
+Plants_jsp.java
+JSP
+*S JSP
+*F
++ 0 Plants.jsp
+Plants.jsp
++ 1 nav1.jsp
+nav1.jsp
+*L
+1,14:50
+1#1,123:64
+123,2:187
+124,25:189
+149:214,3
+150,14:217
+14#0,405:230
+*E

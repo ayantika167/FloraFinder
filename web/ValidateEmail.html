@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Check Email here!!!</title>
+        <meta charset="UTF-8">
+       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <link rel="stylesheet" href="css/validateemail.css">
+
+    </head>
+    
+    <body>
+        
+        <div class="box">
+            <span class="borderLine"></span>
+            <form method="POST" action="http://localhost:8080/ecommerce/ValidateEmail">
+            <h2> <b> VALIDATE YOUR EMAIL </b> </h2>
+    
+            <div class="inputBox">
+             <input type="email" name="temail" id="temail" required placeholder="Enter Your Email">
+                <i></i>
+            </div>
+            <br>
+            <button type="submit"> Send Mail Now</button>
+            <button type="reset">Clear</button>
+            </form>
+        </div>
+  
+    </body>
+</html>

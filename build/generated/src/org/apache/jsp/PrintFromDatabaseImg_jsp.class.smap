@@ -1,0 +1,21 @@
+SMAP
+PrintFromDatabaseImg_jsp.java
+JSP
+*S JSP
+*F
++ 0 PrintFromDatabaseImg.jsp
+PrintFromDatabaseImg.jsp
+*L
+1,36:50
+37,14:87
+50,4:101
+54:106,2
+55,12:108
+67,4:121
+70,4:125
+74,4:129,3
+78,17:141
+95:158,3
+96,12:161
+107,8:173
+*E
